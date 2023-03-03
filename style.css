@@ -1,0 +1,67 @@
+
+.main{
+    justify-content: center;
+    background-color:aliceblue;
+    height: 1050px;
+    width: 940px;
+    border: 2px solid black;
+    margin: auto;
+}
+.uppmain{
+    height: 200px;
+    width: 880px;
+    justify-content:space-between;
+    background-color: aqua;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+    display: flex;
+    padding: 10px;
+
+
+
+
+}
+.name{
+    height: 10px;
+    width: 220px;
+    /* margin-left: -110px;
+     padding-left:-100px; */
+} 
+
+img{
+    /* height: 200px;  */
+    width: 200px;
+    border-radius: 50%;
+   
+    /* margin-left:5px; */
+
+}
+.address{
+    margin-left: 40px;
+}
+.mainBox{
+    height: 755px;
+    width: 900px;
+    display:flex;
+    margin-left:20px;
+    /* background-color: blanchedalmond; */
+    border: 2px solid black;
+    border-radius: 4px;
+    
+}
+.edu{
+    height: 755px;
+    width: 50%;
+    background-color: antiquewhite;
+
+}
+h3{
+    padding-left: 10px;
+}
+.projects{
+    height: 755px;
+    width: 50%;
+    background-color: aquamarine;
+
+}
